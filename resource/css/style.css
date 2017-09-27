@@ -9,7 +9,7 @@ body{
   font-size: 70px;
   color: White;
   font-weight: bold;
-  
+
 }
 
 .enlace{
@@ -18,8 +18,6 @@ body{
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
-.resto{
-  color: dimgray;
 }
 
 .titulo{
@@ -41,4 +39,10 @@ body{
   color: white;
   font-weight: bold;
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+.pie{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
